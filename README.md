@@ -1,4 +1,4 @@
-# StartKit-NodeJS
+# nodejs-typescript-mongodb-function-based-boilerplate
 
 **Version:** 1.0.0  
 **Author:** bhavin-tank  
@@ -6,7 +6,7 @@
 
 ## Description
 
-StartKit-NodeJS is a versatile Node.js Starter Kit built with **TypeScript**, **Express**, and **Mongoose**.  
+Node.js typescript mongodb function based boilerplate is a versatile Node.js Starter Kit built with **TypeScript**, **Express**, and **Mongoose**.  
 This project is designed to help developers kickstart server-side development with a pre-configured backend setup that supports:
 
 - **Scalable architecture**

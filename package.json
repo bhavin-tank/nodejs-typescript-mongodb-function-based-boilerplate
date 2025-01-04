@@ -1,5 +1,5 @@
 {
-  "name": "startkit-nodejs",
+  "name": "nodejs-typescript-mongodb-function-based-boilerplate",
   "version": "1.0.0",
   "description": "A versatile Node.js Starter Kit built with TypeScript, Express, and Mongoose. Designed for developers to kickstart backend development with a pre-configured setup for building scalable, secure, and efficient server-side applications. Features include environment configuration, authentication, input validation, and support for rapid development with pre-defined scripts for building, formatting, and linting. Ideal for any general-purpose backend project.",
   "main": "index.js",
