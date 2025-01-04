@@ -1,4 +1,4 @@
-# nodejs-typescript-mongodb-function-based-boilerplate
+# Nodejs Typescript Mongodb Function Based Boilerplate
 
 **Version:** 1.0.0  
 **Author:** bhavin-tank  
